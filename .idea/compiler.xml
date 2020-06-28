@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="Error_Correcting_Encoder-Decoder-task_main" target="11" />
+      <module name="Error_Correcting_Encoder-Decoder-task_test" target="11" />
+      <module name="Problems-Alphabetical_order_main" target="11" />
+      <module name="Problems-Alphabetical_order_test" target="11" />
+      <module name="Problems-Complex_numbers_main" target="11" />
+      <module name="Problems-Complex_numbers_test" target="11" />
+      <module name="Problems-First_digit_main" target="11" />
+      <module name="Problems-First_digit_test" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_main" target="11" />
+      <module name="Problems-Groundhogs_at_a_party_test" target="11" />
+      <module name="Problems-Interval_main" target="11" />
+      <module name="Problems-Interval_test" target="11" />
+      <module name="Problems-Size_of_parts_main" target="11" />
+      <module name="Problems-Size_of_parts_test" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_main" target="11" />
+      <module name="Problems-The_maximum_pairwise_product_test" target="11" />
+      <module name="util_main" target="11" />
+      <module name="util_test" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
